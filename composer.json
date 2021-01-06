@@ -1,0 +1,11 @@
+{
+    "require": {
+        "leancloud/leancloud-sdk": "^0.8"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

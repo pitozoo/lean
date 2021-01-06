@@ -1,1 +1,2 @@
-# lean
+# lean-pro
+lean-pro
